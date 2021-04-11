@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="value">Value</string>
+    <string name="temperature">Temperature</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="meter">Meter</string>
+    <string name="string_temperature">\@string/temperature</string>
+    <string name="string_kilograms">\@string/kilograms</string>
+    <string name="string_measurements">\@string/measurements</string>
+    <string name="string_meter">\@string/meter</string>
+
+    <string-array name="measurements">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+
+    </string-array>
+
+</resources>
